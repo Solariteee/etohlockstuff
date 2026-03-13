@@ -19,3 +19,5 @@ Astro, supposedly 17 years old, had a girlfriend who was confirmed to be 13 year
 ![astromirical-007](/static/assets/evidence-files/astromirical-007.png)
 ![astromirical-008](/static/assets/evidence-files/astromirical-008.png)
 ![astromirical-009](/static/assets/evidence-files/astromirical-009.png)
+
+As mentioned, there are hundreds of other examples we can show here, but only the main ones were included to keep things concise.
