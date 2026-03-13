@@ -547,3 +547,27 @@ main {
 .github-link:hover {
     color: var(--text);
 }
+
+#img-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(10, 10, 10, 0.9);
+    backdrop-filter: blur(12px);
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    cursor: zoom-out;
+}
+
+#img-overlay img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 6px;
+    object-fit: contain;
+}
+
+.evidence-content img {
+    cursor: pointer !important;
+}
