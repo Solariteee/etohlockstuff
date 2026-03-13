@@ -571,3 +571,11 @@ main {
 .evidence-content img {
     cursor: pointer !important;
 }
+
+.grid.list-view {
+    grid-template-columns: 1fr;
+}
+
+.grid.list-view .card-desc {
+    -webkit-line-clamp: 1;
+}
