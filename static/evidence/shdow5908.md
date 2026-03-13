@@ -4,14 +4,13 @@
 ## **DO NOT GO OUT AND HARASS ANYONE MENTIONED IN THIS DOCUMENT. THAT IS NOT THE INTENTION OF THIS DOCUMENT.**
 
 Here, Tulinjini and Solarite (former partner of shdow5908) will put in all the context and evidence provided to show why shdow5908 is a groomer/pedophile through the lens of Solarite – who was shdow5908's partner for around three months, and tulinjini (the co-writer), through a neutral perspective.
-
 (PLEASE NOTE THAT THIS PART IS ONLY FOR THE CONTEXT OF THE STORY AND PROOF) (also in 3rd person perspective)
 
 To start, on the 12th of February, shdow comes back online and DMs tulinjini that he has found a new partner and will be breaking up with Solarite. He announces this on Tuesday (16th of February) which obviously hurts her. The next day on the 17th, tulinjini alerts Solarite about the reasoning behind this, as he has found a new partner. This makes Solarite extremely suicidal as this was not discussed by shdow and was kept completely hidden – and was also extremely unexpected to her. Friends who discussed the breakup prior had stated they’d rather him have provided any sort of warning to Solarite, however, he didn’t abide by their wishes, worsening things.
 
 This doc will cover the following:
 
-- Shdow’s borderline pedophilia
+- Shdow’s pedophilia
 
 - His manipulative tactics
 
@@ -50,5 +49,6 @@ We have talked to Shdow personally about this, and when he was confronted about 
 ![shdow5908-009](/static/assets/evidence-files/shdow5908-009.jpg)
 ![shdow5908-010](/static/assets/evidence-files/shdow5908-010.png)
 ![shdow5908-011](/static/assets/evidence-files/shdow5908-011.png)
+
 
 
