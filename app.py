@@ -108,14 +108,44 @@ CREDITS = [
     {
         "name": "Solariteee",
         "role": "Staff, Evidence Curator",
-        "bio": "Solariteee is a staff member and evidence curator for EToH Lock.",
+        "bio": "Solariteee is a staff member and evidence curator for EToH Lock. [UPDATE DESC]",
         "image": "/static/assets/users/credits/solariteee.png"
     },
     {
         "name": "Manager_Magolor",
         "role": "Staff, Evidence Curator",
-        "bio": "Manager_Magolor is a staff member and evidence curator for EToH Lock.",
+        "bio": "Manager_Magolor is a staff member and evidence curator for EToH Lock. [UPDATE DESC]",
         "image": "/static/assets/users/credits/manager_magolor.png"
+    },
+    {
+        "name": "imkostasbtw",
+        "role": "Former Staff, Evidence Curator",
+        "bio": "Kostas was a former staff member for EToH Lock and is now an evidence curator. [UPDATE DESC]",
+        "image": "/static/assets/users/credits/imkostasbtw.png"
+    },
+    {
+        "name": "k_tten0",
+        "role": "Former Staff, Evidence Curator",
+        "bio": "Lyriffs was a former staff member for EToH Lock and is now an evidence curator. [UPDATE DESC]",
+        "image": "/static/assets/users/credits/k_tten0.png"
+    },
+    {
+        "name": "xXTheR3DGamerXx",
+        "role": "Former Staff",
+        "bio": "Red was a former staff member for EToH Lock. [UPDATE DESC]",
+        "image": "/static/assets/users/credits/xxther3dgamerxx.png"
+    },
+    {
+        "name": "LoveliestJacob",
+        "role": "Former Staff",
+        "bio": "LoveliestJacob was a former staff member for EToH Lock. [UPDATE DESC]",
+        "image": "/static/assets/users/credits/loveliestjacob.png"
+    },
+    {
+        "name": "obbylordd",
+        "role": "Former Staff",
+        "bio": "obbylordd was a former staff member for EToH Lock. [UPDATE DESC]",
+        "image": "/static/assets/users/credits/obbylordd.png"
     }
 ]
 
