@@ -4,7 +4,7 @@ Red redacted names are from shdow5908, as tulinjini has him saved under his real
 
 During shdow5908 and Solarite's relationship, shdow5908 repeatedly stated that he would kill himself if they broke up.
 
-![shdow5908-001](/static/assets/evidence-files/shdow5908-001.png)
+![shdow5908-001](/static/assets/evidence-files/shdow5908-001.webp)
 
 # Relationship With Minor (Sexual Discussions)
 
@@ -14,8 +14,8 @@ The age of consent in New York is 17, and 18 in Virginia.
 
 [Virginia's Romeo And Juliet laws](https://www.romeo-julietlaw.com/virginia)
 
-![shdow5908-002](/static/assets/evidence-files/shdow5908-002.png)
-![shdow5908-003](/static/assets/evidence-files/shdow5908-003.png)
+![shdow5908-002](/static/assets/evidence-files/shdow5908-002.webp)
+![shdow5908-003](/static/assets/evidence-files/shdow5908-003.webp)
 
 # Age Gap Confrontation
 
@@ -25,10 +25,10 @@ During the discussion, shdow5908 stated that the age gap was "2 years and 10 mon
 
 During the conversation, shdow5908 asked Zonk’s age and later stated that the relationship was "extremely fishy" but also said "im not gonna dump her."
 
-![shdow5908-004](/static/assets/evidence-files/shdow5908-004.png)
-![shdow5908-005](/static/assets/evidence-files/shdow5908-005.png)
-![shdow5908-006](/static/assets/evidence-files/shdow5908-006.png)
-![shdow5908-007](/static/assets/evidence-files/shdow5908-007.png)
+![shdow5908-004](/static/assets/evidence-files/shdow5908-004.webp)
+![shdow5908-005](/static/assets/evidence-files/shdow5908-005.webp)
+![shdow5908-006](/static/assets/evidence-files/shdow5908-006.webp)
+![shdow5908-007](/static/assets/evidence-files/shdow5908-007.webp)
 
 # Direct Confrontation
 
@@ -38,7 +38,7 @@ During the discussion, he referenced sexual topics involving someone who was 15 
 
 Several questions regarding the relationship were asked during the conversation but were not directly answered.
 
-![shdow5908-008](/static/assets/evidence-files/shdow5908-008.jpg)
-![shdow5908-009](/static/assets/evidence-files/shdow5908-009.jpg)
-![shdow5908-010](/static/assets/evidence-files/shdow5908-010.png)
-![shdow5908-011](/static/assets/evidence-files/shdow5908-011.png)
+![shdow5908-008](/static/assets/evidence-files/shdow5908-008.webp)
+![shdow5908-009](/static/assets/evidence-files/shdow5908-009.webp)
+![shdow5908-010](/static/assets/evidence-files/shdow5908-010.webp)
+![shdow5908-011](/static/assets/evidence-files/shdow5908-011.webp)

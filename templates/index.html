@@ -43,7 +43,7 @@
         <div class="grid" id="grid">
             {% for user in users %}
                 <a class="card{% if not user.has_evidence %} no-evidence{% endif %}" href="/user/{{ user.name | urlencode }}" data-level="{{ user.lock_level }}" data-name="{{ user.name | lower }}" data-desc="{{ user.description | lower }}" data-ids="{{ user.accounts | join(' ') }}">
-                    <img class="card-avatar" src="/static/assets/users/{{ user.name }}.png" alt="{{ user.name }}">
+                    <img class="card-avatar" src="/static/assets/users/{{ user.name }}.webp" alt="{{ user.name }}">
 
                     <div class="card-info">
                         <div class="card-row">

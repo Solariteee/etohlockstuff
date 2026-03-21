@@ -46,7 +46,7 @@ def get_data():
             continue
         
         desc = row[3].strip() if len(row) > 3 else ""
-        image_url = f"/static/assets/users/{name}.png"
+        image_url = f"/static/assets/users/{name}.webp"
 
         if not uid.isdigit():
             continue
@@ -99,49 +99,49 @@ CREDITS = [
         "name": "TheHaloDeveloper",
         "role": "Owner, Staff, Evidence Curator",
         "bio": "Halo built and maintains the EToH Lock bot and website. He also develops TowerStats.com, sclp.pro, and occasionally contributes to Caleb's Soul Crushing Domain.",
-        "image": "/static/assets/users/credits/thehalodeveloper.png"
+        "image": "/static/assets/users/credits/thehalodeveloper.webp"
     },
     {
         "name": "Solariteee",
         "role": "Staff, Evidence Curator",
         "bio": "Solar advocates for community safety and is a former staff member across multiple fangames, including community manager for EToH 3XS. She now contributes to other communities like TM and works as an experienced QA tester.",
-        "image": "/static/assets/users/credits/solariteee.png"
+        "image": "/static/assets/users/credits/solariteee.webp"
     },
     {
         "name": "Manager_Magolor",
         "role": "Staff, Evidence Curator",
         "bio": "Lor hunts down exploiters across EToH games and helps keep Caleb's Soul Crushing Domain clean. He also maintains an osu! private server and occasionally works on projects outside of Roblox.",
-        "image": "/static/assets/users/credits/manager_magolor.png"
+        "image": "/static/assets/users/credits/manager_magolor.webp"
     },
     {
         "name": "imkostasbtw",
         "role": "Evidence Curator, Former Staff",
         "bio": "Kostas was a former staff member for EToH Lock and is now an evidence curator. [UPDATE DESC]",
-        "image": "/static/assets/users/credits/imkostasbtw.png"
+        "image": "/static/assets/users/credits/imkostasbtw.webp"
     },
     {
         "name": "k_tten0",
         "role": "Staff, Evidence Curator",
         "bio": "Lyriffs is a staff member for EToH Lock and is also an evidence curator. [UPDATE DESC]",
-        "image": "/static/assets/users/credits/k_tten0.png"
+        "image": "/static/assets/users/credits/k_tten0.webp"
     },
     {
         "name": "xXTheR3DGamerXx",
         "role": "Former Staff",
         "bio": "Red was a former staff member for EToH Lock. [UPDATE DESC]",
-        "image": "/static/assets/users/credits/xxther3dgamerxx.png"
+        "image": "/static/assets/users/credits/xxther3dgamerxx.webp"
     },
     {
         "name": "LoveliestJacob",
         "role": "Former Staff",
         "bio": "LoveliestJacob was a former staff member for EToH Lock. [UPDATE DESC]",
-        "image": "/static/assets/users/credits/loveliestjacob.png"
+        "image": "/static/assets/users/credits/loveliestjacob.webp"
     },
     {
         "name": "obbylordd",
         "role": "Former Staff",
         "bio": "obbylordd was a former staff member for EToH Lock. [UPDATE DESC]",
-        "image": "/static/assets/users/credits/obbylordd.png"
+        "image": "/static/assets/users/credits/obbylordd.webp"
     }
 ]
 

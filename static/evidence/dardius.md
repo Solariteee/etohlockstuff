@@ -8,9 +8,9 @@ Any NSFW material from the original evidence has been redacted for safety reason
 
 The following screenshots show examples of the content posted by Dardius, including racist and extremist messages during his raid.
 
-![dardius-002](/static/assets/evidence-files/dardius-002.png)
-![dardius-003](/static/assets/evidence-files/dardius-003.png)
-![dardius-004](/static/assets/evidence-files/dardius-004.png)
+![dardius-002](/static/assets/evidence-files/dardius-002.webp)
+![dardius-003](/static/assets/evidence-files/dardius-003.webp)
+![dardius-004](/static/assets/evidence-files/dardius-004.webp)
 
 # Behavior Pattern
 

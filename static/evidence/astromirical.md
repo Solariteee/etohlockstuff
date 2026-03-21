@@ -6,18 +6,18 @@ His raids consist of infiltrating servers with dozens of alt accounts, proceedin
 
 Some examples (out of several hundreds) of his raids:
 
-![astromirical-005](/static/assets/evidence-files/astromirical-005.png)
-![astromirical-001](/static/assets/evidence-files/astromirical-001.png)
-![astromirical-002](/static/assets/evidence-files/astromirical-002.png)
-![astromirical-003](/static/assets/evidence-files/astromirical-003.png)
-![astromirical-004](/static/assets/evidence-files/astromirical-004.png)
+![astromirical-005](/static/assets/evidence-files/astromirical-005.webp)
+![astromirical-001](/static/assets/evidence-files/astromirical-001.webp)
+![astromirical-002](/static/assets/evidence-files/astromirical-002.webp)
+![astromirical-003](/static/assets/evidence-files/astromirical-003.webp)
+![astromirical-004](/static/assets/evidence-files/astromirical-004.webp)
 
 # Pedophilia & CSAM
 Astro, supposedly 17 years old, had a girlfriend who was confirmed to be 13 years old. Upon further inquiry, these things were discovered:
 
-![astromirical-006](/static/assets/evidence-files/astromirical-006.png)
-![astromirical-007](/static/assets/evidence-files/astromirical-007.png)
-![astromirical-008](/static/assets/evidence-files/astromirical-008.png)
-![astromirical-009](/static/assets/evidence-files/astromirical-009.png)
+![astromirical-006](/static/assets/evidence-files/astromirical-006.webp)
+![astromirical-007](/static/assets/evidence-files/astromirical-007.webp)
+![astromirical-008](/static/assets/evidence-files/astromirical-008.webp)
+![astromirical-009](/static/assets/evidence-files/astromirical-009.webp)
 
 As mentioned, there are hundreds of other examples we can show here, but only the main ones were included to keep things concise.
