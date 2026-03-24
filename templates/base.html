@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}RoLock{% endblock %}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2FNMG5MCC0"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2FNMG5MCC0');
+</script>
+<body>
+    <header>
+        <div class="header-left">
+            {% block header_left %}
+            <span class="logo">RoLock</span>
+            {% endblock %}
+        </div>
+        <nav style="display:flex;align-items:center;gap:16px">
+            {% block nav %}
+            <a class="github-link" href="/banlist">Banlist</a>
+            <a class="github-link" href="/credits">Credits</a>
+            <a class="github-link" href="https://discord.gg/5dmQNrjJhW" target="_blank">Discord</a>
+            <a class="github-link" href="https://github.com/TheHaloDeveloper/EToHLockWebsite" target="_blank">GitHub</a>
+            {% endblock %}
+        </nav>
+    </header>
+
+    {% block content %}{% endblock %}
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>

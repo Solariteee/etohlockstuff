@@ -1,67 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RoLock</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
-</head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2FNMG5MCC0"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+{% extends "base.html" %}
 
-    gtag('config', 'G-2FNMG5MCC0');
-</script>
-<body>
-    <header>
-        <div class="header-left">
-            <a class="logo" href="/">RoLock</a>
-            <span class="header-divider">/</span>
-            <span class="header-sub">Banlist</span>
-        </div>
-        <div style="display:flex;align-items:center;gap:16px">
-            <a class="github-link" href="/credits">Credits</a>
-            <a class="github-link" href="https://github.com/TheHaloDeveloper/EToHLockWebsite" target="_blank">GitHub</a>
-        </div>
-    </header>
+{% block title %}Banlist - RoLock{% endblock %}
 
-    <div class="toolbar">
-        <input id="search" type="text" placeholder="Search..." autocomplete="off">
-        <div class="filters">
-            <button class="f-btn active" data-level="all">All</button>
-            <button class="f-btn" data-level="3"><span class="dot dot-3"></span>LL3</button>
-            <button class="f-btn" data-level="2"><span class="dot dot-2"></span>LL2</button>
-            <button class="f-btn" data-level="1"><span class="dot dot-1"></span>LL1</button>
-        </div>
-        <button id="view-toggle" class="f-btn">List</button>
+{% block header_left %}
+<a class="logo" href="/">RoLock</a>
+<span class="header-divider">/</span>
+<span class="header-sub">Banlist</span>
+{% endblock %}
+
+{% block nav %}
+<a class="github-link" href="/credits">Credits</a>
+<a class="github-link" href="https://discord.gg/5dmQNrjJhW" target="_blank">Discord</a>
+<a class="github-link" href="https://github.com/TheHaloDeveloper/EToHLockWebsite" target="_blank">GitHub</a>
+{% endblock %}
+
+{% block content %}
+<div class="toolbar">
+    <input id="search" type="text" placeholder="Search..." autocomplete="off">
+    <div class="filters">
+        <button class="f-btn active" data-level="all">All</button>
+        <button class="f-btn" data-level="3"><span class="dot dot-3"></span>LL3</button>
+        <button class="f-btn" data-level="2"><span class="dot dot-2"></span>LL2</button>
+        <button class="f-btn" data-level="1"><span class="dot dot-1"></span>LL1</button>
     </div>
+    <button id="view-toggle" class="f-btn">List</button>
+</div>
 
-    <main>
-        <div class="grid" id="grid">
-            {% for user in users %}
-                <a class="card{% if not user.has_evidence %} no-evidence{% endif %}" href="/user/{{ user.name | urlencode }}" data-level="{{ user.lock_level }}" data-name="{{ user.name | lower }}" data-desc="{{ user.description | lower }}" data-ids="{{ user.accounts | join(' ') }}">
-                    <img class="card-avatar" src="/static/assets/users/{{ user.name }}.webp" alt="{{ user.name }}">
-
-                    <div class="card-info">
-                        <div class="card-row">
-                            <span class="card-name">{{ user.name }}</span>
-                            <span class="ll ll-{{ user.lock_level }}">LL{{ user.lock_level }}</span>
-                        </div>
-                        {% if user.description %}
-                            <p class="card-desc">{{ user.description }}</p>
-                        {% endif %}
+<main>
+    <div class="grid" id="grid">
+        {% for user in users %}
+            <a class="card{% if not user.has_evidence %} no-evidence{% endif %}" href="/user/{{ user.name | urlencode }}" data-level="{{ user.lock_level }}" data-name="{{ user.name | lower }}" data-desc="{{ user.description | lower }}" data-ids="{{ user.accounts | join(' ') }}">
+                <img class="card-avatar" src="/static/assets/users/{{ user.name }}.webp" alt="{{ user.name }}">
+                
+                <div class="card-info">
+                    <div class="card-row">
+                        <span class="card-name">{{ user.name }}</span>
+                        <span class="ll ll-{{ user.lock_level }}">LL{{ user.lock_level }}</span>
                     </div>
-                </a>
-            {% endfor %}
-        </div>
-        <div id="empty" class="empty" style="display:none">No results</div>
-    </main>
+                    {% if user.description %}
+                        <p class="card-desc">{{ user.description }}</p>
+                    {% endif %}
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+    <div id="empty" class="empty" style="display:none">No results</div>
+</main>
+{% endblock %}
 
-    <script src="{{ url_for('static', filename='js/warning.js') }}"></script>
-    <script src="{{ url_for('static', filename='js/index.js') }}"></script>
-</body>
-</html>
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/warning.js') }}"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+{% endblock %}
