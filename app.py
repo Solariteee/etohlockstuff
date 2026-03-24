@@ -10,6 +10,15 @@ load_dotenv()
 
 app = Flask(__name__)
 
+@app.context_processor
+def inject_css_version():
+    css_path = os.path.join(app.static_folder, 'css', 'styles.css')
+    try:
+        version = int(os.path.getmtime(css_path))
+    except OSError:
+        version = 1
+    return {'css_version': version}
+
 creds = service_account.Credentials.from_service_account_info(
     json.loads(os.environ["GOOGLE_CREDENTIALS"]),
     scopes=["https://www.googleapis.com/auth/spreadsheets.readonly"]
