@@ -1,10 +1,4 @@
-Red redacted names are from shdow5908, as tulinjini has him saved under his real name.
-
-# Suicide Threats During Relationship
-
-During shdow5908 and Solarite's relationship, shdow5908 repeatedly stated that he would kill himself if they broke up.
-
-![shdow5908-001](/static/assets/evidence-files/shdow5908-001.webp)
+Red redacted names are from shdow5908, as one of the document's contributors has him saved under his real name.
 
 # Relationship With Minor (Sexual Discussions)
 
